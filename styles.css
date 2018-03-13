@@ -35,3 +35,12 @@ ol {
 	background-color: grey;
 	padding: 2%;
 }
+
+ol > li:nth-child(2n+1) {
+	background-color: green;
+
+}
+
+ol ul a:hover {
+	background-color: yellow;
+}
