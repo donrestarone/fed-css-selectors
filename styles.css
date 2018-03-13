@@ -1,6 +1,10 @@
 /* Move your styles here when you're ready to clean up your HTML file */
 
 /* Don't forget to link to this file in your HTML, otherwise your styles won't show up! */
+* {
+	font-family: "Coda Captain";
+
+}
 h1 {
 	font-size: 35px;
 	font-family: "Times New Roman", Serif; 
@@ -43,4 +47,8 @@ ol > li:nth-child(2n+1) {
 
 ol ul a:hover {
 	background-color: yellow;
+}
+
+ol ul li {
+	background-color: white;
 }
