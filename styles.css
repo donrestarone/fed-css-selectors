@@ -12,3 +12,26 @@ h2 {
 	font-family: "Times New Roman", Serif; 
 	text-decoration: underline;  
 }
+
+header {
+	border-bottom: 5px dotted blue;
+}
+
+.square {
+	background: #222222;
+	color: white;
+	border: 1px solid white; 
+}
+
+#item {
+	font-size: 30px
+}
+
+#item2 {
+	text-align: right; 
+}
+
+ol {
+	background-color: grey;
+	padding: 2%;
+}
